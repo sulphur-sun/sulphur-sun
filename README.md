@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=monokai&headerStyle=retro&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit" alt="Stats Terminal">
+</p>
+
+<p align="center">
   <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=matrix" alt="GitCity">
 </p>
 
@@ -20,7 +24,4 @@
   <a href="https://www.codewars.com/users/sulphur-sun">
     <img src="https://www.codewars.com/users/sulphur-sun/badges/small" alt="Codewars">
   </a>
-</p>
-<p align="center">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=monokai&headerStyle=retro&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit" alt="Stats Terminal">
 </p>
