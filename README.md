@@ -1,5 +1,5 @@
 <div align="center">
-  # sulphur-sun
+  sulphur-sun
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
@@ -10,8 +10,4 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulphur-sun&show_icons=true&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulphur-sun&layout=compact&theme=radical" alt="Top Languages" height="170">
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulphur-sun&theme=radical" alt="GitHub Streak" />
