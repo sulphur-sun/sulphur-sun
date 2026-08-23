@@ -22,5 +22,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=gruvbox" alt="Stats Terminal">
+  <img src="[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=yogeshwaran01&theme=monokai&headerStyle=retro&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit)](https://github.com/yogeshwaran01)" alt="Stats Terminal">
 </p>
