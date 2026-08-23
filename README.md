@@ -1,7 +1,9 @@
 <h1 align="center">
   <code style="color: #0ff;">sulphur-sun</code>
 </h1>
+
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -15,7 +17,9 @@
 <p align="center">
   <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=matrix" alt="GitCity">
 </p>
+
 ---
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulphur-sun&theme=github-dark" alt="Activity Graph">
 </p>
