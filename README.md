@@ -10,8 +10,7 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-
 <p align="center">
-  <img src="https://github-contribution-city.vercel.app/api?username=sulphur-sun&theme=dark&city=1" alt="GitGarden" width="600">
+  <img src="https://gitgarden.marshallku.dev/?user_name=sulphur-sun" alt="Git Garden">
 </p>
 
