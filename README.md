@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=monokai&headerStyle=retro&typingSpeed=80&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cexit" alt="Stats Terminal">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=monokai&headerStyle=retro&typingSpeed=80&hostname=github.com&commands=neofetch%2Clanguages%2Cexit" alt="Stats Terminal">
 </p>
 
 <p align="center">
