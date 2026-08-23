@@ -16,15 +16,9 @@
   <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=matrix" alt="GitCity">
 </p>
 
-<!-- Codewars + Stats Terminal в одной строке (или в две) -->
-<h3 align="center">
-  <span style="color: #f0f;">⏣</span> <span style="color: #fff;">КОДОВЫЙ ФРОНТ</span> <span style="color: #f0f;">⏣</span>
-</h3>
 <p align="center">
-  <!-- Codewars badge -->
   <a href="https://www.codewars.com/users/sulphur-sun">
     <img src="https://www.codewars.com/users/sulphur-sun/badges/small" alt="Codewars">
   </a>
-  <!-- Stats Terminal (стилизованная статистика) -->
   <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=tokyonight" alt="Stats Terminal">
 </p>
