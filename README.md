@@ -17,9 +17,3 @@
 <p align="center">
   <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=matrix" alt="GitCity">
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulphur-sun&theme=github-dark" alt="Activity Graph">
-</p>
