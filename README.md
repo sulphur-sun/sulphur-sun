@@ -22,5 +22,5 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=catppuccin" alt="Stats Terminal">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=nord" alt="Stats Terminal">
 </p>
