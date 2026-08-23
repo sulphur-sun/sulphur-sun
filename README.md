@@ -10,4 +10,11 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulphur-sun&theme=radical" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-contribution-city.vercel.app/api?username=sulphur-sun&theme=dark&city=1" alt="GitWorld City" width="600">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulphur-sun&theme=dark&hide_border=true" alt="GitHub Streak">
+</p>
