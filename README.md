@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=gold" alt="GitCity">
+  <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=ice" alt="GitCity">
 </p>
 
 <p align="center">
