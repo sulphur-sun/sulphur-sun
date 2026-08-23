@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 <p align="center">
-  <img src="[https://gitgarden.marshallku.dev/?user_name=sulphur-sun](https://thegitgarden.com/garden/sulphur-sun)" alt="Git Garden">
+  <img src="https://thegitgarden.com/garden/sulphur-sun" alt="Git Garden">
 </p>
 
 <p align="center">
