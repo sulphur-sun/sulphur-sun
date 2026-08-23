@@ -21,6 +21,6 @@
     <img src="https://www.codewars.com/users/sulphur-sun/badges/small" alt="Codewars">
   </a>
 </p>
-<p>
+<p align="center">
   <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=sulphur-sun&theme=tokyonight" alt="Stats Terminal">
 </p>
