@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gitcity.natrajx.in/api/svg?username=sulphur-sun&theme=aurora" alt="GitCity">
+  <img src="https://streak-stats.demolab.com?user=sulphur-sun&theme=gruvbox" alt="Streak">
 </p>
 
 <p align="center">
